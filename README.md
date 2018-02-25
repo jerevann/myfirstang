@@ -1,3 +1,5 @@
+[![Coverage Status](https://coveralls.io/repos/github/jerevann/myfirstang/badge.svg?branch=master)](https://coveralls.io/github/jerevann/myfirstang?branch=master)
+[![Build Status](https://travis-ci.org/jerevann/myfirstang.svg?branch=master)](https://travis-ci.org/jerevann/myfirstang)
 [![Known Vulnerabilities](https://snyk.io/test/github/jerevann/myfirstang/badge.svg?targetFile=package.json)](https://snyk.io/test/github/jerevann/myfirstang?targetFile=package.json)
 
 # Myfirstang
