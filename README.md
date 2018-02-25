@@ -1,3 +1,5 @@
+[![Known Vulnerabilities](https://snyk.io/test/github/jerevann/myfirstang/badge.svg?targetFile=package.json)](https://snyk.io/test/github/jerevann/myfirstang?targetFile=package.json)
+
 # Myfirstang
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.1.
