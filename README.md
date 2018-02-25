@@ -1,3 +1,5 @@
+[![Coverage Status](https://coveralls.io/repos/github/jerevann/myfirstang/badge.svg?branch=master)](https://coveralls.io/github/jerevann/myfirstang?branch=master)
+[![Build Status](https://travis-ci.org/jerevann/myfirstang.svg?branch=master)](https://travis-ci.org/jerevann/myfirstang)
 # Myfirstang
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.1.
